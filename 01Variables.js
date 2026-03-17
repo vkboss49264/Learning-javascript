@@ -6,3 +6,4 @@
 let a = "Hello World my name is vishal";
 
 console.log(a);
+console.log(a);
